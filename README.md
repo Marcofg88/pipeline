@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/marcolagrasta/pipeline/_apis/build/status/Marcofg88.pipeline?branchName=main)](https://dev.azure.com/marcolagrasta/pipeline/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
